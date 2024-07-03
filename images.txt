@@ -8,3 +8,6 @@ labring/openebs:v1.9.0
 grafana/grafana:8.4.4
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+#econageks
+juicedata/juicefs-csi-driver:v0.18.0
