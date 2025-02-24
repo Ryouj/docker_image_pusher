@@ -1,3 +1,3 @@
 
 apache/hadoop:3.3.6
-opentsdb/opentsdb:2.4.1
+vulhub/opentsdb:2.4.1
