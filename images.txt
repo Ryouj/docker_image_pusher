@@ -1,2 +1,3 @@
-polinux/stress-ng
-vulhub/opentsdb:2.4.0
+#olinux/stress-ng
+#vulhub/opentsdb:2.4.0
+gradiant/opentsdb:2.4.0
