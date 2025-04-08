@@ -1,3 +1,2 @@
-#olinux/stress-ng
-#vulhub/opentsdb:2.4.0
-confluentinc/cp-kafka:7.6.0
+wurstmeister/zookeeper:3.4.6 
+wurstmeister/kafka:2.13-2.8.1
