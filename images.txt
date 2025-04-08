@@ -1,4 +1,3 @@
 #olinux/stress-ng
 #vulhub/opentsdb:2.4.0
-gradiant/opentsdb:2.4.0
-petergrace/opentsdb-docker:latest
+confluentinc/cp-kafka:7.4.0
